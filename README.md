@@ -17,7 +17,7 @@ First, clone the repository and navigate into the project directory. Then, it's 
 
 ```bash
 # Clone the repository (replace with your actual repo link)
-git clone [https://github.com/your-username/Employee-Sentiment-Analysis.git](https://github.com/your-username/Employee-Sentiment-Analysis.git)
+git clone https://github.com/TabassumSK/Employee-Sentiment-Analysis.git
 
 # Create and activate a virtual environment
 python -m venv venv
